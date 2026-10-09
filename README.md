@@ -34,7 +34,7 @@ A hotel feedback form where guests can share details about their stay, including
 
 1. Clone the repository:
 ```
-   git clone https://github.com/aqeelahlabs/YOUR-REPO-NAME.git
+   https://github.com/aqeelahlabs/Hotel-Feedback-Form.git
 ```
 2. Open `index.html` in your browser.
 
