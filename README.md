@@ -4,7 +4,7 @@ A hotel feedback form where guests can share details about their stay, including
 
 ## Live Demo
 
-[View the project](https://aqeelahlabs.github.io/YOUR-REPO-NAME/)
+[View the project] (https://aqeelahlabs.github.io/Hotel-Feedback-Form/)
 
 ## Features
 
